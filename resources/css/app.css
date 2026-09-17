@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+[x-cloak] { display: none !important; }
+
+body {
+    font-family: 'Cairo', 'Tajawal', system-ui, sans-serif;
+}
